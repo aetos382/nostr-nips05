@@ -2,5 +2,15 @@
   "names": {
     "aetos": "982bc51e43e3a68a5863a8fe99bf8e7875ef33669f07997a326841db4a36075d",
     "_": "982bc51e43e3a68a5863a8fe99bf8e7875ef33669f07997a326841db4a36075d"
+  },
+  "relays": {
+    "982bc51e43e3a68a5863a8fe99bf8e7875ef33669f07997a326841db4a36075d": [
+      "wss://relay-jp.nostr.wirednet.jp",
+      "wss://nostr.h3z.jp",
+      "wss://nostr.holybea.com",
+      "wss://nostr.fediverse.jp",
+      "wss://nostr-relay.nokotaro.com",
+      "wss://relay.damus.io"
+    ]
   }
 }
